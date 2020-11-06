@@ -1,0 +1,25 @@
+{
+  "name": "micropackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [
+    "micropackage"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lioneltay/micropackage.git"
+  },
+  "author": "Lionel Tay <lionel.lt.tay@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lioneltay/micropackage/issues"
+  },
+  "homepage": "https://github.com/lioneltay/micropackage#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
